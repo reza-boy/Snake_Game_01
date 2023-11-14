@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a snake game with python with scoreboard and high score board","md5":"adf78da88ad99b0c5c020c3dfd1948b2"}]}
